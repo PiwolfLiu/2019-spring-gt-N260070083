@@ -1,0 +1,20 @@
+a a 1 1
+a b 1 1
+a b 1 1
+a b 1 1
+a b 1 1
+a b 1 1
+a g 1 1
+a h 1 1
+a i 1 1
+g j 1 1
+h a 1 1
+i j 1 1
+a f 1 1
+g c 1 1
+g h 1 1
+h i 1 1
+i j 1 1
+
+
+

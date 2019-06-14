@@ -1,0 +1,5 @@
+->  : origin egde 
+->> : extra edge
+
+Path : 
+g->j->i->h->>g->>c->g->j->f->a->h->a->g->>a->>b->a->b->a->b->a->a
